@@ -80,6 +80,18 @@ This repository contains the data, and presentations for our in-depth analysis o
 
 ## Dashboard
 
+* **HOMEPAGE**
+
+
+* **GENERAL VIEW**
+
+
+* **SALES VIEW**
+
+
+* **AGE VIEW**
+
+
 
 **You can view live Interactive Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNDc0ODdhNWItMGE2YS00ZGMwLTkxMGQtODkzMGYxN2JiNWFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
@@ -87,3 +99,4 @@ This repository contains the data, and presentations for our in-depth analysis o
 
 ## Data Modeling
 
+![Screenshot 2024-05-08 160144](https://github.com/Kartiksinghbisen/Shield-Insurance/assets/139736045/4e35ea8b-5976-491c-bfc3-4254746fddfb)
