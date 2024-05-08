@@ -81,17 +81,22 @@ This repository contains the data, and presentations for our in-depth analysis o
 ## Dashboard
 
 * **HOMEPAGE**
-
+  
+![Screenshot 2024-04-17 182459](https://github.com/Kartiksinghbisen/Shield-Insurance/assets/139736045/e2e591f6-dcd2-4526-b9e8-2d834397e498)
 
 * **GENERAL VIEW**
+
+![Screenshot 2024-04-17 182534](https://github.com/Kartiksinghbisen/Shield-Insurance/assets/139736045/4d557aa4-083d-48a5-a794-8accb7df19da)
+
 
 
 * **SALES VIEW**
 
+![Screenshot 2024-04-17 184253](https://github.com/Kartiksinghbisen/Shield-Insurance/assets/139736045/baf457ce-4a9b-41b0-9d51-f53d9c1ed8f0)
 
 * **AGE VIEW**
 
-
+![Screenshot 2024-04-17 184334](https://github.com/Kartiksinghbisen/Shield-Insurance/assets/139736045/3874a3db-76cd-4a79-9370-f9f0049a24ae)
 
 **You can view live Interactive Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNDc0ODdhNWItMGE2YS00ZGMwLTkxMGQtODkzMGYxN2JiNWFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
